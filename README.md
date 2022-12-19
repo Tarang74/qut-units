@@ -43,3 +43,7 @@ A dictionary of postrequisites for units offered in the given year.
 ## Type Definitions
 
 Type information is provided in `*.ts` files.
+
+## There is an error in the data!
+
+If you spot any errors in the data, please open an issue, or submit a pull request.
